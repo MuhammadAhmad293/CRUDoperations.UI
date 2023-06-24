@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+table {
+    width: 100%;
+  }
+  
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+tr.table-element-row:nth-of-type(even) {
+   background: #ecf0f6;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
